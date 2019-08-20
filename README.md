@@ -6,6 +6,6 @@
 
 **Piano Player Application**
 
-> Plays music from a text file
-> shows the music being played on a piano
-> generates and follows along in sheet music
+- Plays music from a text file
+- shows the music being played on a piano
+- generates and follows along in sheet music
